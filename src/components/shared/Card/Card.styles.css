@@ -1,0 +1,11 @@
+.image {
+  height: 400px;
+  width: auto;
+  border-radius: 5px;
+}
+
+.card_layout {
+  width: 300px !important;
+  margin: 30px !important;
+  border-radius: 10px !important;
+}

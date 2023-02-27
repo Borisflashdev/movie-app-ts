@@ -1,0 +1,33 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  background-color: #292b2c;
+  color: white;
+  height: auto;
+  width: 50%;
+  margin-top: 100px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mainText {
+  font-size: 1.2rem;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.link {
+  font-size: 20px !important;
+  color: #d9534f;
+}
